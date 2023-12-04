@@ -10,10 +10,10 @@ import {
   Button,
 } from "@mui/material";
 
-import { TodoContext } from "../data/todoContext";
+import { TodoContext } from "./data/todoContext";
 
-import Todos from "../components/Todos";
-import TodoForm from "../components/TodoForm";
+import Todos from "./components/Todos";
+import TodoForm from "./components/TodoForm";
 
 import "@fontsource/roboto/300.css";
 import "@fontsource/roboto/400.css";
