@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { List, ListItem, Container } from "@mui/material";
 
-import { TodoContext } from "../data/todoContext";
+import { TodoContext } from "./data/todoContext";
 
 import Todo from "./Todo";
 
